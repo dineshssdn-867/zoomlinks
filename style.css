@@ -1,0 +1,33 @@
+
+body {
+  background-image: url('https://cdn.lifestyleasia.com/wp-content/uploads/sites/5/2021/08/16103118/KhabyLame-copy-1600x900.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.homepage{
+    color: white;
+    text-align:center;
+}
+.button {
+    background-color: #810725; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
